@@ -5,7 +5,6 @@
 广东科教,http://180.143.87.162:8181/tsfile/live/2008_1.m3u8?key=txiptv
 广东体育,http://180.143.87.162:8181/tsfile/live/2007_1.m3u8?key=txiptv
 岭南戏曲,http://180.143.87.162:8181/tsfile/live/1003_1.m3u8?key=txiptv
-经典电影,http://180.143.87.162:8181/tsfile/live/2016_1.m3u8?key=txiptv
 CHC动作电影,http://180.143.87.162:8181/tsfile/live/2010_1.m3u8?key=txiptv
 CHC高清电影-高清,http://180.143.87.162:8181/tsfile/live/2011_1.m3u8?key=txiptv
 CHC家庭影院-高清,http://180.143.87.162:8181/tsfile/live/2009_1.m3u8?key=txiptv
