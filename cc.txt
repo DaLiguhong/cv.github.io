@@ -18,3 +18,12 @@ CCTV5,http://223.151.51.74:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&au
 兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
 新安新闻综合,http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8
 嵩县综合新闻,http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8
+新安新闻,http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8
+宜阳综合,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
+焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
+焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
+武陟新闻,http://tvpull.dxhmt.cn:9081/tv/10823-1.m3u8
+禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
+禹州公共,http://tvpull.dxhmt.cn:9081/tv/11081-2.m3u8
+兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
+杞县新闻,http://tvpull.dxhmt.cn:9081/tv/10221-1.m3u8
