@@ -1,3 +1,4 @@
+央视频道,#genre#
 CCTV1高清,http://113.240.139.144:8082/hls/1/index.m3u8
 CCTV2高清,http://113.240.139.144:8082/hls/2/index.m3u8
 CCTV3高清,http://113.240.139.144:8082/hls/3/index.m3u8
@@ -14,6 +15,7 @@ CCTV13高清,http://113.240.139.144:8082/hls/14/index.m3u8
 CCTV14高清,http://113.240.139.144:8082/hls/15/index.m3u8
 CCTV15高清,http://113.240.139.144:8082/hls/16/index.m3u8
 CCTV5+高清,http://113.240.139.144:8082/hls/6/index.m3u8
+卫视地方,#genre#
 河南卫视,http://113.240.139.144:8082/hls/37/index.m3u8
 巩义新闻,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
 新密新闻,http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
