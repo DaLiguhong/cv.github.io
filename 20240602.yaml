@@ -1,11 +1,10 @@
 ####################################
 # 创建者：v2rayse.com
-# 客户端：Clash.Meta
-# 创建时间：2024-06-02 18:52:48
+# 客户端：Clash
+# 创建时间：2024-06-02 19:29:26
 # 使用模版：V2RaySE 默认模版
-# 节点数量：1
+# 节点数量：20
 ####################################
-# !!当前配置文件请使用基于 Clash.Meta 内核程序
 mixed-port: 7890
 allow-lan: true
 log-level: info
@@ -86,46 +85,179 @@ dns:
       - 0.0.0.0/32
 
 proxies:
-  - {"name":"20000.65267199.workers.dev","type":"vless","server":"20000.65267199.workers.dev","port":443,"uuid":"c8f3fcb0-068c-4460-ab5a-5cb1d7bed94f","tls":true,"servername":"20000.65267199.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2560","headers":{"host":"20000.65267199.workers.dev"}},"client-fingerprint":"randomized"}
+  - {"name":"美国+华盛顿州","type":"ss","server":"205.134.180.139","port":443,"password":"lWaGPVFjmnag","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"美国+V2CROSS.COM_1","type":"ss","server":"23.162.200.77","port":5499,"password":"lGqs95QkFHo2NV","cipher":"aes-256-gcm"}
+  - {"name":"美国+V2CROSS.COM_2","type":"ss","server":"23.162.200.77","port":7001,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
+  - {"name":"美国+华盛顿Cogent通信公司","type":"ss","server":"38.107.226.146","port":1230,"password":"H5S0hvcxRi#YLmgU","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"美国 CloudFlare节点_1","type":"vmess","server":"cfcdn3.sanfencdn9.com","port":2052,"cipher":"auto","uuid":"bb1af7d3-9526-44f1-9155-788773cc629e","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/video/9TfVEyku","headers":{"host":"wtywwcrzjp5.yofnhkfc.xyz"}}}
+  - {"name":"广东省佛山市 移动_1","type":"vmess","server":"183.232.199.28","port":15603,"cipher":"auto","uuid":"aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"广东省佛山市 移动_2","type":"vmess","server":"183.232.199.28","port":15605,"cipher":"auto","uuid":"aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"美国 CloudFlare节点_2","type":"vmess","server":"104.19.45.88","port":2095,"cipher":"auto","uuid":"7a737f41-b792-4260-94ff-3d864da67b80","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/","headers":{"host":"onea.flha.ru"}}}
+  - {"name":"湖南省 联通","type":"vmess","server":"yes.cnmjcn.net","port":16632,"cipher":"auto","uuid":"2b8cfb7b-d3e7-4525-8418-e13a9b8fd73b","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/","headers":{"host":"dcef278233434a15c3587ef998dd119d.mobgslb.tbcache.com"}}}
+  - {"name":"美国 CloudFlare节点_3","type":"vmess","server":"www.speedtest.net","port":80,"cipher":"none","uuid":"31488365-7b6a-434a-8b7b-8f35012c6a22","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.NET-TO-KEEP-THIS-SERVER-ALIVE","headers":{"host":"Se2.vmess.site."}}}
+  - {"name":"俄罗斯 莫斯科JustHost","type":"vmess","server":"45.136.245.240","port":12910,"cipher":"auto","uuid":"8259cb1c-dd6c-4739-9c88-af550d977525","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"22.lwdh.us","network":"ws","ws-opts":{"path":"/"}}
+  - {"name":"广东省佛山市 移动_3","type":"vmess","server":"183.232.199.61","port":15603,"cipher":"auto","uuid":"aaaaaaaa-aaaa-aaaa-aaaa-daaaaaaaaaad","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"美国 CloudFlare节点_4","type":"vmess","server":"190.93.247.155","port":80,"cipher":"none","uuid":"d9aaf6f8-0ef7-499c-830a-c7e5e56f3bd8","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.NET-TO-KEEP-THIS-SERVER-ALIVE","headers":{"host":"Uk2.vmess.site."}}}
+  - {"name":"美国 CloudFlare节点_5","type":"vmess","server":"104.19.40.237","port":8880,"cipher":"auto","uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/d/65dd503.TG.WangCai2.WangCai_8:107690","headers":{"host":"uk.moss.network"}}}
+  - {"name":"英国+V2CROSS.COM","type":"trojan","server":"5.44.249.44","port":3306,"udp":true,"password":"b84d16a244460e09","sni":"n2.gladns.com","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/gateway/connect","headers":{"host":"TG.WangCai_1"}}}
+  - {"name":"澳大利亚+新南威尔士州悉尼Linode数据中心","type":"trojan","server":"au-full.privateip.net","port":443,"udp":true,"password":"f83a1a37-d8ba-49c2-bb96-44381b519ec5","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"日本+V2CROSS.COM","type":"trojan","server":"146.56.44.226","port":55555,"udp":true,"password":"moist","sni":"trojan.freenods.sbs","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"trojan.freenods.sbs"}}}
+  - {"name":"台湾省+中华电信(HiNet)数据中心","type":"trojan","server":"118.163.128.81","port":13688,"udp":true,"password":"moist","sni":"trojan.freenods.sbs","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"trojan.freenods.sbs"}}}
+  - {"name":"英国+伦敦Amazon数据中心","type":"trojan","server":"35.178.247.52","port":22222,"udp":true,"password":"telegram-id-privatevpns","sni":"trojan.burgerip.co.uk","skip-cert-verify":true,"network":"tcp","alpn":["http/1.1"]}
+  - {"name":"美国+弗吉尼亚州阿什本Amazon数据中心","type":"trojan","server":"54.166.47.79","port":443,"udp":true,"password":"7J6952","sni":"tj526.37927.online","skip-cert-verify":true,"network":"tcp"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 20000.65267199.workers.dev
+      - 美国+华盛顿州
+      - 美国+V2CROSS.COM_1
+      - 美国+V2CROSS.COM_2
+      - 美国+华盛顿Cogent通信公司
+      - 美国 CloudFlare节点_1
+      - 广东省佛山市 移动_1
+      - 广东省佛山市 移动_2
+      - 美国 CloudFlare节点_2
+      - 湖南省 联通
+      - 美国 CloudFlare节点_3
+      - 俄罗斯 莫斯科JustHost
+      - 广东省佛山市 移动_3
+      - 美国 CloudFlare节点_4
+      - 美国 CloudFlare节点_5
+      - 英国+V2CROSS.COM
+      - 澳大利亚+新南威尔士州悉尼Linode数据中心
+      - 日本+V2CROSS.COM
+      - 台湾省+中华电信(HiNet)数据中心
+      - 英国+伦敦Amazon数据中心
+      - 美国+弗吉尼亚州阿什本Amazon数据中心
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 20000.65267199.workers.dev
+      - 美国+华盛顿州
+      - 美国+V2CROSS.COM_1
+      - 美国+V2CROSS.COM_2
+      - 美国+华盛顿Cogent通信公司
+      - 美国 CloudFlare节点_1
+      - 广东省佛山市 移动_1
+      - 广东省佛山市 移动_2
+      - 美国 CloudFlare节点_2
+      - 湖南省 联通
+      - 美国 CloudFlare节点_3
+      - 俄罗斯 莫斯科JustHost
+      - 广东省佛山市 移动_3
+      - 美国 CloudFlare节点_4
+      - 美国 CloudFlare节点_5
+      - 英国+V2CROSS.COM
+      - 澳大利亚+新南威尔士州悉尼Linode数据中心
+      - 日本+V2CROSS.COM
+      - 台湾省+中华电信(HiNet)数据中心
+      - 英国+伦敦Amazon数据中心
+      - 美国+弗吉尼亚州阿什本Amazon数据中心
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 20000.65267199.workers.dev
+      - 美国+华盛顿州
+      - 美国+V2CROSS.COM_1
+      - 美国+V2CROSS.COM_2
+      - 美国+华盛顿Cogent通信公司
+      - 美国 CloudFlare节点_1
+      - 广东省佛山市 移动_1
+      - 广东省佛山市 移动_2
+      - 美国 CloudFlare节点_2
+      - 湖南省 联通
+      - 美国 CloudFlare节点_3
+      - 俄罗斯 莫斯科JustHost
+      - 广东省佛山市 移动_3
+      - 美国 CloudFlare节点_4
+      - 美国 CloudFlare节点_5
+      - 英国+V2CROSS.COM
+      - 澳大利亚+新南威尔士州悉尼Linode数据中心
+      - 日本+V2CROSS.COM
+      - 台湾省+中华电信(HiNet)数据中心
+      - 英国+伦敦Amazon数据中心
+      - 美国+弗吉尼亚州阿什本Amazon数据中心
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 20000.65267199.workers.dev
+      - 美国+华盛顿州
+      - 美国+V2CROSS.COM_1
+      - 美国+V2CROSS.COM_2
+      - 美国+华盛顿Cogent通信公司
+      - 美国 CloudFlare节点_1
+      - 广东省佛山市 移动_1
+      - 广东省佛山市 移动_2
+      - 美国 CloudFlare节点_2
+      - 湖南省 联通
+      - 美国 CloudFlare节点_3
+      - 俄罗斯 莫斯科JustHost
+      - 广东省佛山市 移动_3
+      - 美国 CloudFlare节点_4
+      - 美国 CloudFlare节点_5
+      - 英国+V2CROSS.COM
+      - 澳大利亚+新南威尔士州悉尼Linode数据中心
+      - 日本+V2CROSS.COM
+      - 台湾省+中华电信(HiNet)数据中心
+      - 英国+伦敦Amazon数据中心
+      - 美国+弗吉尼亚州阿什本Amazon数据中心
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 20000.65267199.workers.dev
+      - 美国+华盛顿州
+      - 美国+V2CROSS.COM_1
+      - 美国+V2CROSS.COM_2
+      - 美国+华盛顿Cogent通信公司
+      - 美国 CloudFlare节点_1
+      - 广东省佛山市 移动_1
+      - 广东省佛山市 移动_2
+      - 美国 CloudFlare节点_2
+      - 湖南省 联通
+      - 美国 CloudFlare节点_3
+      - 俄罗斯 莫斯科JustHost
+      - 广东省佛山市 移动_3
+      - 美国 CloudFlare节点_4
+      - 美国 CloudFlare节点_5
+      - 英国+V2CROSS.COM
+      - 澳大利亚+新南威尔士州悉尼Linode数据中心
+      - 日本+V2CROSS.COM
+      - 台湾省+中华电信(HiNet)数据中心
+      - 英国+伦敦Amazon数据中心
+      - 美国+弗吉尼亚州阿什本Amazon数据中心
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 20000.65267199.workers.dev
+      - 美国+华盛顿州
+      - 美国+V2CROSS.COM_1
+      - 美国+V2CROSS.COM_2
+      - 美国+华盛顿Cogent通信公司
+      - 美国 CloudFlare节点_1
+      - 广东省佛山市 移动_1
+      - 广东省佛山市 移动_2
+      - 美国 CloudFlare节点_2
+      - 湖南省 联通
+      - 美国 CloudFlare节点_3
+      - 俄罗斯 莫斯科JustHost
+      - 广东省佛山市 移动_3
+      - 美国 CloudFlare节点_4
+      - 美国 CloudFlare节点_5
+      - 英国+V2CROSS.COM
+      - 澳大利亚+新南威尔士州悉尼Linode数据中心
+      - 日本+V2CROSS.COM
+      - 台湾省+中华电信(HiNet)数据中心
+      - 英国+伦敦Amazon数据中心
+      - 美国+弗吉尼亚州阿什本Amazon数据中心
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -148,7 +280,26 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 20000.65267199.workers.dev
+      - 美国+华盛顿州
+      - 美国+V2CROSS.COM_1
+      - 美国+V2CROSS.COM_2
+      - 美国+华盛顿Cogent通信公司
+      - 美国 CloudFlare节点_1
+      - 广东省佛山市 移动_1
+      - 广东省佛山市 移动_2
+      - 美国 CloudFlare节点_2
+      - 湖南省 联通
+      - 美国 CloudFlare节点_3
+      - 俄罗斯 莫斯科JustHost
+      - 广东省佛山市 移动_3
+      - 美国 CloudFlare节点_4
+      - 美国 CloudFlare节点_5
+      - 英国+V2CROSS.COM
+      - 澳大利亚+新南威尔士州悉尼Linode数据中心
+      - 日本+V2CROSS.COM
+      - 台湾省+中华电信(HiNet)数据中心
+      - 英国+伦敦Amazon数据中心
+      - 美国+弗吉尼亚州阿什本Amazon数据中心
 
 rules:
 # 本地/局域网地址
