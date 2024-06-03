@@ -33,20 +33,7 @@
       "ext": "http://127.0.0.1:9978/file/tvmoyu/token.txt",
       "jar": "http://www.wya6.cn/tz/wyalqd.php"
     },
-       "lives": [
-    {
-      "group": "TV专业维护直播",
-      "channels": [
-        {
-          "name": "TV专业维护",
-          "urls": [
-            "https://07751000.github.io/001github.io/DY.txt"
-          ]
-        }
-      ]
-    }
-  ],
-
+   
     {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
