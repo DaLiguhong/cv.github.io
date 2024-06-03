@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash.Meta
-# 创建时间：2024-05-22 11:57:00
+# 创建时间：2024-06-03 20:55:46
 # 使用模版：V2RaySE 默认模版
-# 节点数量：18
+# 节点数量：3
 ####################################
 # !!当前配置文件请使用基于 Clash.Meta 内核程序
 mixed-port: 7890
@@ -86,24 +86,9 @@ dns:
       - 0.0.0.0/32
 
 proxies:
-  - {"name":"官方优选域名","type":"vless","server":"icook.tw","port":2053,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.aliyun.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
-  - {"name":"优选官方线路","type":"vless","server":"cloudflare.cfgo.cc","port":443,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.multacom.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
-  - {"name":"HK_1","type":"vless","server":"16.162.37.167","port":443,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.multacom.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
-  - {"name":"HK_2","type":"vless","server":"16.163.18.210","port":443,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.aliyun.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
-  - {"name":"HK_3","type":"vless","server":"18.162.32.152","port":443,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.aliyun.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
-  - {"name":"HK_4","type":"vless","server":"16.162.56.233","port":443,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.multacom.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
-  - {"name":"HK_5","type":"vless","server":"16.162.152.191","port":443,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.multacom.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
-  - {"name":"HK_6","type":"vless","server":"18.167.208.181","port":443,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.aliyun.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
-  - {"name":"HK_7","type":"vless","server":"47.76.94.15","port":2053,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.vultr.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
-  - {"name":"HK_8","type":"vless","server":"47.76.146.1","port":2096,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.multacom.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
-  - {"name":"JP_1","type":"vless","server":"43.153.181.217","port":443,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.vultr.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
-  - {"name":"JP_2","type":"vless","server":"52.193.4.149","port":443,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.vultr.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
-  - {"name":"JP_3","type":"vless","server":"13.230.34.30","port":443,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.multacom.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
-  - {"name":"JP_4","type":"vless","server":"152.70.86.93","port":443,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.multacom.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
-  - {"name":"JP_5","type":"vless","server":"152.69.199.70","port":8443,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.multacom.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
-  - {"name":"JP_6","type":"vless","server":"141.147.186.227","port":443,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.vultr.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
-  - {"name":"JP_7","type":"vless","server":"168.138.50.249","port":443,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.multacom.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
-  - {"name":"JP_8","type":"vless","server":"140.238.58.181","port":2053,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.multacom.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
+  - {"name":"官方优选域名","type":"vless","server":"icook.tw","port":2053,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.vultr.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
+  - {"name":"HK_1","type":"vless","server":"8.210.89.245","port":2087,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.multacom.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
+  - {"name":"HK_2","type":"vless","server":"47.242.17.250","port":2053,"uuid":"eaf75d74-2407-4e11-a1c0-5deaf9be3c18","tls":true,"servername":"tls.pl10000.top","network":"ws","ws-opts":{"path":"/proxyIP=proxyip.multacom.fxxk.dedyn.io","headers":{"host":"tls.pl10000.top"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -111,23 +96,8 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
       - 官方优选域名
-      - 优选官方线路
       - HK_1
       - HK_2
-      - HK_3
-      - HK_4
-      - HK_5
-      - HK_6
-      - HK_7
-      - HK_8
-      - JP_1
-      - JP_2
-      - JP_3
-      - JP_4
-      - JP_5
-      - JP_6
-      - JP_7
-      - JP_8
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -135,23 +105,8 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 官方优选域名
-      - 优选官方线路
       - HK_1
       - HK_2
-      - HK_3
-      - HK_4
-      - HK_5
-      - HK_6
-      - HK_7
-      - HK_8
-      - JP_1
-      - JP_2
-      - JP_3
-      - JP_4
-      - JP_5
-      - JP_6
-      - JP_7
-      - JP_8
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -159,92 +114,32 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 官方优选域名
-      - 优选官方线路
       - HK_1
       - HK_2
-      - HK_3
-      - HK_4
-      - HK_5
-      - HK_6
-      - HK_7
-      - HK_8
-      - JP_1
-      - JP_2
-      - JP_3
-      - JP_4
-      - JP_5
-      - JP_6
-      - JP_7
-      - JP_8
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - 官方优选域名
-      - 优选官方线路
       - HK_1
       - HK_2
-      - HK_3
-      - HK_4
-      - HK_5
-      - HK_6
-      - HK_7
-      - HK_8
-      - JP_1
-      - JP_2
-      - JP_3
-      - JP_4
-      - JP_5
-      - JP_6
-      - JP_7
-      - JP_8
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
       - 官方优选域名
-      - 优选官方线路
       - HK_1
       - HK_2
-      - HK_3
-      - HK_4
-      - HK_5
-      - HK_6
-      - HK_7
-      - HK_8
-      - JP_1
-      - JP_2
-      - JP_3
-      - JP_4
-      - JP_5
-      - JP_6
-      - JP_7
-      - JP_8
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - 官方优选域名
-      - 优选官方线路
       - HK_1
       - HK_2
-      - HK_3
-      - HK_4
-      - HK_5
-      - HK_6
-      - HK_7
-      - HK_8
-      - JP_1
-      - JP_2
-      - JP_3
-      - JP_4
-      - JP_5
-      - JP_6
-      - JP_7
-      - JP_8
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -268,23 +163,8 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 官方优选域名
-      - 优选官方线路
       - HK_1
       - HK_2
-      - HK_3
-      - HK_4
-      - HK_5
-      - HK_6
-      - HK_7
-      - HK_8
-      - JP_1
-      - JP_2
-      - JP_3
-      - JP_4
-      - JP_5
-      - JP_6
-      - JP_7
-      - JP_8
 
 rules:
 # 本地/局域网地址
