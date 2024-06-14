@@ -14,18 +14,13 @@ CCTV13-新闻,http://123.163.55.234:9901/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV14-少儿,http://123.163.55.234:9901/tsfile/live/0014_1.m3u8?key=txiptv
 CCTV15-音乐,http://123.163.55.234:9901/tsfile/live/0015_1.m3u8?key=txiptv
 
-河南都市频道,http://123.10.78.222:808/hls/18/index.m3u8
-河南民生频道,http://123.10.78.222:808/hls/19/index.m3u8
-河南法治频道,http://123.10.78.222:808/hls/20/index.m3u8
-河南电视剧频道,http://123.10.78.222:808/hls/21/index.m3u8
-河南新闻频道,http://123.10.78.222:808/hls/22/index.m3u8
-河南公共频道,http://123.10.78.222:808/hls/24/index.m3u8
-新农村频道,http://123.10.78.222:808/hls/25/index.m3u8
-河南国际频道,http://123.10.78.222:808/hls/26/index.m3u8
-河南梨园频道,http://123.10.78.222:808/hls/27/index.m3u8
-河南武术世界,http://123.10.78.222:808/hls/29/index.m3u8
-河南文物宝库,http://123.10.78.222:808/hls/28/index.m3u8
-
+河南都市频道,http://123.101.158.95:808/hls/32/index.m3u8
+河南民生频道,http://123.101.158.95:808/hls/33/index.m3u8
+河南法制频道,http://123.101.158.95:808/hls/34/index.m3u8
+河南电视剧频道,http://123.101.158.95:808/hls/35/index.m3u8
+河南公共频道,http://123.101.158.95:808/hls/38/index.m3u8
+河南新农村频道,http://123.101.158.95:808/hls/39/index.m3u8
+河南国际频道,http://123.101.158.95:808/hls/40/index.m3u8
 
 河南卫视,http://123.163.55.234:9901/tsfile/live/0139_1.m3u8?key=txiptv
 北京卫视,http://123.163.55.234:9901/tsfile/live/0122_1.m3u8?key=txiptv
