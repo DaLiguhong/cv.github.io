@@ -1110,7 +1110,7 @@ dj新歌句句理,https://vd4.bdstatic.com/mda-ncmb65kfdfysdq4g/sc/cae_h264_delo
 
 
 
-VIP频道,#genre#
+VIP频道_1,#genre#
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
@@ -1297,7 +1297,7 @@ WIN HD綜合,https://epg.pw/stream/beedf009af55b6adf5840ba8defe6a88bb4e1b85c6e31
 
 
 
-VIP2频道,#genre#
+VIP2频道_1,#genre#
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
 朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
