@@ -105,7 +105,7 @@ CCTV6-电影,http://222.244.147.16:9901/tsfile/live/0006_1.m3u8?key=txiptv&playl
 可能-程响,https://vd3.bdstatic.com/mda-pd369avvets19gch/sc/cae_h264/1680582897997490362/mda-pd369avvets19gch.mp4
 烟雨人间,http://mobi.kuwo.cn/tmevideo/tme1257648.mp4
 阿果吉曲,http://mobi.kuwo.cn/tmevideo/tme1257695.mp4
-VIP2频道_1,#genre#
+VIP2频道,#genre#
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
 朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
