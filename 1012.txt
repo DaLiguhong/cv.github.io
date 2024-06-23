@@ -11,30 +11,22 @@
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 萧山综合频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-🌍央卫综合-2,#genre#
-CCTV-9,http://219.159.147.195:9901/tsfile/live/1011_1.m3u8?key=txiptv
-CCTV-12,http://219.159.147.195:9901/tsfile/live/1014_1.m3u8?key=txiptv
-CCTV-新闻,http://219.159.147.195:9901/tsfile/live/1015_1.m3u8?key=txiptv
-CCTV-少儿,http://219.159.147.195:9901/tsfile/live/1020_1.m3u8?key=txiptv
+🌍广西电信,#genre#
+CCTV-2,http://219.159.147.195:9901/tsfile/live/1019_1.m3u8?key=txiptv
+CCTV-3,http://219.159.147.195:9901/tsfile/live/1004_1.m3u8?key=txiptv
+CCTV-4,http://219.159.147.195:9901/tsfile/live/1005_1.m3u8?key=txiptv
+CCTV-5,http://219.159.147.195:9901/tsfile/live/1006_1.m3u8?key=txiptv
 CCTV-音乐,http://219.159.147.195:9901/tsfile/live/1021_1.m3u8?key=txiptv
 CCTV-17,http://219.159.147.195:9901/tsfile/live/1022_1.m3u8?key=txiptv
 东方卫视,http://219.159.147.195:9901/tsfile/live/1023_1.m3u8?key=txiptv
 北京卫视,http://219.159.147.195:9901/tsfile/live/1024_1.m3u8?key=txiptv
 浙江卫视,http://219.159.147.195:9901/tsfile/live/1025_1.m3u8?key=txiptv
-湖南卫视,http://219.159.147.195:9901/tsfile/live/1026_1.m3u8?key=txiptv
-江苏卫视,http://219.159.147.195:9901/tsfile/live/1016_1.m3u8?key=txiptv
+河北卫视,http://219.159.147.195:9901/tsfile/live/1035_1.m3u8?key=txiptv
+天津卫视,http://219.159.147.195:9901/tsfile/live/1037_1.m3u8?key=txiptv
+天等台,http://219.159.147.195:9901/tsfile/live/1000_1.m3u8?key=txiptv
+崇左综合,http://219.159.147.195:9901/tsfile/live/1001_1.m3u8?key=txiptv
+广西卫视,http://219.159.147.195:9901/tsfile/live/1002_1.m3u8?key=txiptv
 🎤MTV现代,#genre#
 堕-戴羽彤,https://vd3.bdstatic.com/mda-pe8yinxx1y1dpsxk/720p/h264/1683673132967321820/mda-pe8yinxx1y1dpsxk.mp4
 海市蜃楼 - 一颗狼星,https://vd3.bdstatic.com/mda-pcp5fx5bfrctx9pu/sc/cae_h264/1679635523924099179/mda-pcp5fx5bfrctx9pu.mp4
 落在生命里的光 - 尹昔眠,https://vdse.bdstatic.com//5fd4b2da5893e8582789452fa395ab59.mp4
-是你-梦然,https://vdse.bdstatic.com//f5fc719eff9f5bdb2ce15147dfc76b3c.mp4
-征途-张杰,https://vdse.bdstatic.com//f4818f131b890e065df16b6fdb173c46.mp4
-时光洪流-程响,https://vd3.bdstatic.com/mda-pdd8msvmqi6svxjg/sc/cae_h264/1681466855589135211/mda-pdd8msvmqi6svxjg.mp4
-泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
-朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-日本新闻,https://n24-cdn-live.ntv.co.jp:443/ch01/high.m3u8
-日本新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
