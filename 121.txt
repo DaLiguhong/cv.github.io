@@ -1155,11 +1155,6 @@ CCTV5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
 
 
-
-
-
-
-
 🌍央卫综合-1,#genre#
 CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
@@ -1219,6 +1214,9 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 延边卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+
+
+
 
 
 
@@ -1612,6 +1610,7 @@ IPTV5+,http://171.8.247.154:808/hls/75/index.m3u8
 
 
 
+
 🌍央卫综合-2,#genre#
 CCTV1,http://113.218.229.25:8081/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://223.159.9.176:8099/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -1937,6 +1936,9 @@ CCTV17,http://223.151.51.74:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&a
 
 
 
+
+
+
 🌍广西贺州,#genre#
 CCTV1-综合,http://116.9.204.242:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV2-财经,http://116.9.204.242:9901/tsfile/live/0002_1.m3u8?key=txiptv
@@ -1963,6 +1965,7 @@ CCTV15-音乐,http://116.9.204.242:9901/tsfile/live/0015_1.m3u8?key=txiptv
 江苏卫视,http://116.9.204.242:9901/tsfile/live/0127_1.m3u8?key=txiptv
 广西影视,http://116.9.204.242:9901/tsfile/live/0124_1.m3u8?key=txiptv
 广西旅游,http://116.9.204.242:9901/tsfile/live/0125_1.m3u8?key=txiptv
+
 
 
 
@@ -2214,7 +2217,6 @@ CGTN纪录,http://113.218.229.25:8081/tsfile/live/0016_1.m3u8?key=txiptv
 
 
 
-
 🌍南宁电信,#genre#
 天等台,http://219.159.147.195:9901/tsfile/live/1000_1.m3u8?key=txiptv
 崇左综合,http://219.159.147.195:9901/tsfile/live/1001_1.m3u8?key=txiptv
@@ -2384,8 +2386,6 @@ CETV4,http://113.92.222.115:808/hls/79/index.m3u8
 
 
 
-
-
 🌍河北联通,#genre#
 CCTV1综合,http://120.7.85.152:8088/hls/1/index.m3u8
 CCTV2财经,http://120.7.85.152:8088/hls/2/index.m3u8
@@ -2459,6 +2459,14 @@ CETV4,http://120.7.85.152:8088/hls/100/index.m3u8
 
 
 
+
+
+
+
+
+
+
+
 🏀体育IPV4,#genre#
 风云足球,https://epg.pw/stream/429f44be8f007cfd67bf72ba165eb20871064218965c65efd1207c1c112b371c.m3u8
 风云足球,https://epg.pw/stream/2d6613a4624da0846ee8414ea2bc90f845a5cce72d08600abf3926cb2978a54f.m3u8
@@ -2485,6 +2493,13 @@ CETV4,http://120.7.85.152:8088/hls/100/index.m3u8
 2CCTV-16,http://123.116.128.173:4022/rtp/239.3.1.184:8001
 
 3CCTV-16,http://www.unraidd.top:8282/udp/239.29.1.146:5000
+
+
+
+
+
+
+
 
 
 
@@ -3792,6 +3807,27 @@ CETV4,http://114.252.229.26:9876/rtp/239.3.1.56:4120
 
 
 
+
+🎤闽南歌,#genre#
+闽南歌1,https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBb1VGX2F3T25KOVRlSXM3aHQ2dk5mdjRfUjQ_ZT1FRExHREU.mp4
+闽南歌2,https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBb1VGX2F3T25KOVRlYnp3Q21ZTnRKUjNpcnc_ZT1DaGVBMzA.mp4
+闽南歌3,https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBb1VGX2F3T25KOVRlaktFeE1LMGJWNjczUGs_ZT1aZ1UwOGc.mp4
+闽南歌4,https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBb1VGX2F3T25KOVRmajdpY3VUQmlhZkdZOEk_ZT1WWU5FVE4.mp4
+闽南歌5,https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBb1VGX2F3T25KOVRnUUVUSlRiSWd5T1BNcTJXP2U9VzBtN0dk.mp4
+闽南歌6,https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBb1VGX2F3T25KOVRnUUJVQ08tUHB2NFJNeEZvP2U9c3E1RkdE.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
 🎤MTV现代,#genre#
 堕-戴羽彤,https://vd3.bdstatic.com/mda-pe8yinxx1y1dpsxk/720p/h264/1683673132967321820/mda-pe8yinxx1y1dpsxk.mp4
 海市蜃楼 - 一颗狼星,https://vd3.bdstatic.com/mda-pcp5fx5bfrctx9pu/sc/cae_h264/1679635523924099179/mda-pcp5fx5bfrctx9pu.mp4
@@ -4738,7 +4774,7 @@ TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 2021年,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
 2022年,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 2023年,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-播放异常请进,#genre#
+☎播放异常请进,#genre#
 后台维护请联系1,https://mi.gx10086.us.kg/file/d3579ecf43073b4fe9740.mp4
 后台维护请联系2,https://mi.gx10086.us.kg/file/aedbfb40bf41abeb23cc1.mp4
 安卓播放异常,https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBb1VGX2F3T25KOVRiNm91Z3I5WF9idGJ5TVk_ZT16empmNHo.mp4
